@@ -1,4 +1,4 @@
-# im
+# chat tcp
 
 Simple TCP chat room written in go
 
